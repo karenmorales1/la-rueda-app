@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/styles.css"],"names":[],"mappings":"AAAA,OAAO,8BAA8B,EAAE,YAAY,EAAE,C","file":"styles.css","sourcesContent":["body { font-family: Arial, sans-serif; margin: 20px; }"],"sourceRoot":"webpack:///"}
